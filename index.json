@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mundo-principal",
+    "name": "Mundo Principal",
+    "description": "Mapa inicial com áreas variadas.",
+    "file": "worlds/mundo-principal.json",
+    "thumbnail": "thumbnails/mundo-principal.jpg"
+  },
+  {
+    "id": "ilha-aventura",
+    "name": "Ilha da Aventura",
+    "description": "Ilha cercada por mar, cheia de desafios.",
+    "file": "worlds/ilha-aventura.json",
+    "thumbnail": "thumbnails/ilha-aventura.jpg"
+  }
+]
