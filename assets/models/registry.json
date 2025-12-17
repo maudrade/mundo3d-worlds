@@ -1,14 +1,8 @@
 [
   {
-    "id": "test_box",
-    "name": "Box",
-    "url": "assets/models/box.glb",
-    "scale": 1
-  },
-  {
     "id": "untitled",
     "name": "Untitled.glb",
-    "url": "assets/models/Untitled.glb",
+    "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/Untitled.glb",
     "scale": 1
   }
 ]
