@@ -36,15 +36,15 @@
     "scale": 1
   },
   {
-    "id": "flower-12",
-    "name": "flower-12.glb",
-    "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/flower-12.glb",
-    "scale": 1
-  },
-  {
     "id": "wooden-logs-1616",
     "name": "wooden-logs-1616.glb",
     "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/wooden-logs-1616.glb",
+    "scale": 1
+  },
+  {
+    "id": "biplane-131",
+    "name": "biplane-131.glb",
+    "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/biplane-131.glb",
     "scale": 1
   }
 ]
