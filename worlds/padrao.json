@@ -20,7 +20,7 @@
     },
     "sunLight": {
       "color": "#ffffff",
-      "intensity": 1.79,
+      "intensity": 1,
       "position": {
         "x": 100,
         "y": 150,
@@ -10445,5 +10445,5 @@
       "name": "Principal"
     }
   ],
-  "savedAt": "2025-12-18T14:16:10.881Z"
+  "savedAt": "2025-12-18T15:16:22.767Z"
 }
