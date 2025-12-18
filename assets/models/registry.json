@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "untitled",
+    "name": "Untitled.glb",
+    "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/Untitled.glb",
+    "scale": 1
+  },
+  {
+    "id": "grass-13",
+    "name": "grass-13.glb",
+    "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/grass-13.glb",
+    "scale": 1
+  }
+]
