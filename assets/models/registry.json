@@ -64,11 +64,5 @@
     "name": "biplane-131.glb",
     "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/biplane-131.glb",
     "scale": 1
-  },
-  {
-    "id": "mesh",
-    "name": "mesh.obj",
-    "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/mesh.obj",
-    "scale": 1
   }
 ]
