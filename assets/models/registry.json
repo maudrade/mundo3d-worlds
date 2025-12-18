@@ -40,5 +40,11 @@
     "name": "big-barn-698.glb",
     "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/big-barn-698.glb",
     "scale": 1
+  },
+  {
+    "id": "cow-881",
+    "name": "cow-881.glb",
+    "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/cow-881.glb",
+    "scale": 1
   }
 ]
