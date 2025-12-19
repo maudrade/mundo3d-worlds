@@ -10559,12 +10559,9 @@
       },
       {
         "x": 37.609009166223906,
-        "y": 21.512970369770343,
         "z": -20.327489212768427,
         "scale": 1.6412821809231175,
         "rotY": -0.3872899939263137,
-        "rotX": 0.10276326739253672,
-        "rotZ": -0.5943082709380739,
         "modelId": "biplane-131",
         "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/biplane-131.glb"
       }
@@ -10578,6 +10575,6 @@
       "name": "Principal"
     }
   ],
-  "exportedAt": "2025-12-19T22:56:56.798Z",
+  "exportedAt": "2025-12-19T23:32:12.227Z",
   "id": "meu-mundo-ddd"
 }
