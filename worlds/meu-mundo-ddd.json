@@ -10501,14 +10501,72 @@
     ],
     "models": [
       {
-        "x": 64.96689221231503,
-        "y": 0,
-        "z": 12.660234342712265,
+        "x": 13.724459352845841,
+        "z": 44.68105284202363,
         "scale": 1,
         "rotY": 0,
-        "rotX": 0,
-        "rotZ": 0,
         "modelId": "big-barn-698"
+      },
+      {
+        "x": -23.367906886879346,
+        "z": 48.67338302839316,
+        "scale": 1,
+        "rotY": 0,
+        "modelId": "big-barn-698"
+      },
+      {
+        "x": 48.54476311602849,
+        "z": -19.242684545042394,
+        "scale": 1,
+        "rotY": 0,
+        "modelId": "big-barn-698"
+      },
+      {
+        "x": 22.64464605263118,
+        "z": -42.12555200571671,
+        "scale": 1,
+        "rotY": 0,
+        "modelId": "big-barn-698"
+      },
+      {
+        "x": 43.941215662543826,
+        "z": 9.660049538891798,
+        "scale": 1,
+        "rotY": 0,
+        "modelId": "big-barn-698"
+      },
+      {
+        "x": -64.81698332482398,
+        "z": 7.33032594442173,
+        "scale": 1,
+        "rotY": 0,
+        "modelId": "big-barn-698"
+      },
+      {
+        "x": 41.08760938022538,
+        "z": -18.34395425640878,
+        "scale": 1,
+        "rotY": 0,
+        "modelId": "big-barn-698"
+      },
+      {
+        "x": 50.60751592713979,
+        "z": -12.4624832859499,
+        "scale": 1,
+        "rotY": 0,
+        "modelId": "big-barn-698",
+        "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/big-barn-698.glb"
+      },
+      {
+        "x": 37.609009166223906,
+        "y": 21.512970369770343,
+        "z": -20.327489212768427,
+        "scale": 1.6412821809231175,
+        "rotY": -0.3872899939263137,
+        "rotX": 0.10276326739253672,
+        "rotZ": -0.5943082709380739,
+        "modelId": "biplane-131",
+        "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/biplane-131.glb"
       }
     ]
   },
@@ -10520,6 +10578,6 @@
       "name": "Principal"
     }
   ],
-  "exportedAt": "2025-12-19T22:35:07.227Z",
+  "exportedAt": "2025-12-19T22:56:56.798Z",
   "id": "meu-mundo-ddd"
 }
