@@ -10558,10 +10558,13 @@
         "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/big-barn-698.glb"
       },
       {
-        "x": 37.609009166223906,
-        "z": -20.327489212768427,
+        "x": 23.760800083381195,
+        "y": 33.38146932685269,
+        "z": 13.623309258928323,
         "scale": 1.6412821809231175,
         "rotY": -0.3872899939263137,
+        "rotX": 0,
+        "rotZ": 0,
         "modelId": "biplane-131",
         "url": "https://raw.githubusercontent.com/maudrade/mundo3d-worlds/main/assets/models/biplane-131.glb"
       }
@@ -10575,6 +10578,6 @@
       "name": "Principal"
     }
   ],
-  "exportedAt": "2025-12-19T23:32:12.227Z",
+  "exportedAt": "2025-12-20T03:04:18.752Z",
   "id": "meu-mundo-ddd"
 }
