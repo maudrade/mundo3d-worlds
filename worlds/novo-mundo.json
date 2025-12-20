@@ -10464,7 +10464,7 @@
     "rocks": [
       {
         "x": -26.75583869479217,
-        "y": 1.2285986526821375,
+        "y": 0.7783079742977579,
         "z": 39.28152958223444,
         "scale": 1,
         "rotY": 0,
@@ -10473,7 +10473,7 @@
       },
       {
         "x": -26.401267222888688,
-        "y": 1.3199380715749491,
+        "y": 0.824141291363695,
         "z": 37.65761824971178,
         "scale": 1,
         "rotY": 0,
@@ -10481,17 +10481,17 @@
         "rotZ": 0
       },
       {
-        "x": 2.691017762363316,
-        "y": 1.5280979949266467,
-        "z": 32.994430711263156,
-        "scale": 1,
-        "rotY": 0,
+        "x": 4.225477380266119,
+        "y": 0.5005244344053601,
+        "z": 32.99350175934381,
+        "scale": 1.8968670931014793,
+        "rotY": -0.7473127865515363,
         "rotX": 0,
         "rotZ": 0
       },
       {
         "x": 4.114986399467654,
-        "y": 1.5280988216400146,
+        "y": 0.9874937971170215,
         "z": 40.556394789029554,
         "scale": 1,
         "rotY": 0,
@@ -10499,9 +10499,9 @@
         "rotZ": 0
       },
       {
-        "x": -23.784005322179357,
-        "y": 1.03491503302131,
-        "z": 20.44517488955242,
+        "x": -21.959017386480312,
+        "y": 0.7704699492675129,
+        "z": 23.132261955064337,
         "scale": 1,
         "rotY": 0,
         "rotX": 0,
@@ -10517,7 +10517,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "tulip"
       },
       {
         "x": -26.756870239019285,
@@ -10527,7 +10527,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "tulip"
       },
       {
         "x": -29.437336531655326,
@@ -10547,7 +10547,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "tulip"
       },
       {
         "x": -29.704741497027168,
@@ -10557,7 +10557,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "rose"
       },
       {
         "x": -25.536149703460275,
@@ -10567,7 +10567,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "bluebell"
       },
       {
         "x": -25.109616067918353,
@@ -10577,7 +10577,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "rose"
       },
       {
         "x": -25.79216978062576,
@@ -10587,7 +10587,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "tulip"
       },
       {
         "x": -6.359622987068934,
@@ -10597,7 +10597,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "bluebell"
       },
       {
         "x": -7.773245672931203,
@@ -10627,7 +10627,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "tulip"
       },
       {
         "x": -12.299306198524302,
@@ -10657,7 +10657,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "sunflower"
       },
       {
         "x": -10.06699835558847,
@@ -10667,7 +10667,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "sunflower"
       },
       {
         "x": -5.424467063692083,
@@ -10677,7 +10677,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "bluebell"
       },
       {
         "x": -6.209087154920263,
@@ -10697,7 +10697,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "rose"
       },
       {
         "x": -12.53662432791514,
@@ -10707,7 +10707,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "daisy"
       },
       {
         "x": -12.432531853257343,
@@ -10717,7 +10717,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "rose"
       },
       {
         "x": -12.62776878502994,
@@ -10727,7 +10727,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "daisy"
       },
       {
         "x": -12.766690667384557,
@@ -10747,7 +10747,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "tulip"
       },
       {
         "x": -12.536447821954948,
@@ -10757,7 +10757,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "rose"
       },
       {
         "x": -12.886983203195815,
@@ -10767,7 +10767,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "bluebell"
       },
       {
         "x": -12.577266688718623,
@@ -10777,7 +10777,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "rose"
       },
       {
         "x": 3.367268993109551,
@@ -10787,7 +10787,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "bluebell"
       },
       {
         "x": 3.0566522876332414,
@@ -10797,7 +10797,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "sunflower"
       },
       {
         "x": 3.1971114361515482,
@@ -10807,7 +10807,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "sunflower"
       },
       {
         "x": 1.2856577607715316,
@@ -10817,7 +10817,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "rose"
       },
       {
         "x": 2.072866221767711,
@@ -10827,7 +10827,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "bluebell"
       },
       {
         "x": 0.10582231321347635,
@@ -10847,7 +10847,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "rose"
       },
       {
         "x": -15.811989618592772,
@@ -10857,7 +10857,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "daisy"
       },
       {
         "x": -17.7092443849181,
@@ -10867,7 +10867,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "tulip"
       },
       {
         "x": -17.068388937063062,
@@ -10877,7 +10877,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "bluebell"
       },
       {
         "x": -16.87779444826974,
@@ -10907,7 +10907,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "bluebell"
       },
       {
         "x": -15.233540775998268,
@@ -10917,7 +10917,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "tulip"
       },
       {
         "x": -14.800555694008754,
@@ -10937,7 +10937,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "sunflower"
       },
       {
         "x": -16.59581824909958,
@@ -10947,7 +10947,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "sunflower"
       },
       {
         "x": -16.921093266258097,
@@ -10957,7 +10957,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "bluebell"
       },
       {
         "x": -10.476111980010957,
@@ -10967,7 +10967,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "bluebell"
       },
       {
         "x": -11.091884104675787,
@@ -10977,7 +10977,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "rose"
       },
       {
         "x": -11.813335106523606,
@@ -10987,7 +10987,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "bluebell"
       },
       {
         "x": -13.412680539730637,
@@ -10997,7 +10997,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "sunflower"
       },
       {
         "x": -14.571873475303052,
@@ -11007,7 +11007,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "rose"
       },
       {
         "x": -14.440024784688598,
@@ -11017,7 +11017,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "tulip"
       },
       {
         "x": -13.000757559712246,
@@ -11027,7 +11027,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "daisy"
       },
       {
         "x": -13.576945405677732,
@@ -11037,7 +11037,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "sunflower"
       },
       {
         "x": -14.280096780406968,
@@ -11047,7 +11047,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "daisy"
       },
       {
         "x": -16.03693089654257,
@@ -11057,7 +11057,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "tulip"
       },
       {
         "x": -15.41573178368195,
@@ -11067,7 +11067,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "daisy"
       },
       {
         "x": -14.908430304139541,
@@ -11077,7 +11077,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "sunflower"
       },
       {
         "x": -15.999704261389265,
@@ -11087,7 +11087,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "daisy"
       },
       {
         "x": -16.262682679891846,
@@ -11097,7 +11097,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "daisy"
       },
       {
         "x": -14.69105751835746,
@@ -11107,7 +11107,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "bluebell"
       },
       {
         "x": -15.41046604496859,
@@ -11127,7 +11127,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "bluebell"
       },
       {
         "x": -11.295555847093603,
@@ -11137,7 +11137,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "sunflower"
       },
       {
         "x": -11.422398529838524,
@@ -11147,7 +11147,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "sunflower"
       },
       {
         "x": -12.61361653094681,
@@ -11157,7 +11157,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "rose"
       },
       {
         "x": -10.565768554117877,
@@ -11167,7 +11167,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "daisy"
       },
       {
         "x": -10.65218545902967,
@@ -11177,7 +11177,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "sunflower"
       },
       {
         "x": -12.166404021080776,
@@ -11197,7 +11197,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "bluebell"
       },
       {
         "x": -7.087067714701782,
@@ -11207,7 +11207,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "rose"
       },
       {
         "x": -6.860841106675337,
@@ -11217,7 +11217,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "daisy"
       },
       {
         "x": -6.652498627888349,
@@ -11227,7 +11227,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "rose"
       },
       {
         "x": -6.598600717654673,
@@ -11237,7 +11237,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "bluebell"
       },
       {
         "x": -6.274945520757548,
@@ -11247,7 +11247,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "daisy"
       },
       {
         "x": -5.291782974625961,
@@ -11257,7 +11257,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "daisy"
       },
       {
         "x": -5.005245248124738,
@@ -11267,7 +11267,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "sunflower"
       },
       {
         "x": -7.365753079005903,
@@ -11287,7 +11287,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "daisy"
       },
       {
         "x": -10.492398158702535,
@@ -11297,7 +11297,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "daisy"
       },
       {
         "x": -11.075570432687822,
@@ -11307,7 +11307,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "rose"
       },
       {
         "x": -11.367118646389713,
@@ -11317,7 +11317,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "sunflower"
       },
       {
         "x": -13.4429906408908,
@@ -11327,7 +11327,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "rose"
       },
       {
         "x": -8.07644610071583,
@@ -11337,7 +11337,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "daisy"
       },
       {
         "x": -7.62944720415787,
@@ -11347,7 +11347,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "sunflower"
       },
       {
         "x": -7.064382530270116,
@@ -11357,7 +11357,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "daisy"
       },
       {
         "x": -6.614707228885635,
@@ -11367,7 +11367,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "tulip"
       },
       {
         "x": -7.314747017714519,
@@ -11387,7 +11387,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "daisy"
       },
       {
         "x": -7.526864877562533,
@@ -11397,7 +11397,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "bluebell"
       },
       {
         "x": -6.014926834947849,
@@ -11417,7 +11417,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "sunflower"
       },
       {
         "x": -5.336540789119352,
@@ -11427,7 +11427,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "bluebell"
       },
       {
         "x": -5.259524611610099,
@@ -11437,7 +11437,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "tulip"
       },
       {
         "x": -4.811361601433433,
@@ -11447,7 +11447,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "rose"
       },
       {
         "x": -3.234892212634082,
@@ -11457,7 +11457,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "sunflower"
       },
       {
         "x": -3.3677335136828583,
@@ -11467,7 +11467,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "sunflower"
       },
       {
         "x": -5.101849667176323,
@@ -11477,7 +11477,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "tulip"
+        "type": "bluebell"
       },
       {
         "x": -3.4912771772000877,
@@ -11487,7 +11487,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "daisy"
       },
       {
         "x": -3.379912074969485,
@@ -11507,7 +11507,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "tulip"
       },
       {
         "x": -0.9992276089273013,
@@ -11517,7 +11517,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "daisy"
       },
       {
         "x": -0.8823371658415704,
@@ -11527,7 +11527,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "sunflower"
       },
       {
         "x": -2.778898818264742,
@@ -11537,7 +11537,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "rose"
       },
       {
         "x": -3.4544767513122236,
@@ -11547,7 +11547,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "tulip"
       },
       {
         "x": -2.7978221714569136,
@@ -11567,7 +11567,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "rose"
       },
       {
         "x": -1.3023878525210035,
@@ -11577,7 +11577,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "daisy"
       },
       {
         "x": -0.611847493571934,
@@ -11587,7 +11587,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "rose"
+        "type": "tulip"
       },
       {
         "x": -5.272100118179555,
@@ -11597,7 +11597,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "bluebell"
+        "type": "sunflower"
       },
       {
         "x": -5.4117695309058425,
@@ -11617,7 +11617,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "daisy"
+        "type": "sunflower"
       },
       {
         "x": -3.4821437014585728,
@@ -11627,7 +11627,7 @@
         "rotY": 0,
         "rotX": 0,
         "rotZ": 0,
-        "type": "sunflower"
+        "type": "daisy"
       }
     ],
     "fences": [
@@ -11879,6 +11879,6 @@
       "name": "Principal"
     }
   ],
-  "exportedAt": "2025-12-20T04:13:12.939Z",
+  "exportedAt": "2025-12-20T15:12:09.133Z",
   "id": "novo-mundo"
 }
